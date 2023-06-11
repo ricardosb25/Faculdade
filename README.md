@@ -1,2 +1,2 @@
-# Faculdade
-O repositório Faculdade é direcionado para atividades da faculdade em que frequento
+# ExerciciosEmPython
+O repositório é direcionado para exercicios em python!
