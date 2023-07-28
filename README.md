@@ -1,2 +1,2 @@
-# ExerciciosEmPython
-O repositório é direcionado para exercicios em python!
+# PythonExercises
+The repository is dedicated to python exercises!
